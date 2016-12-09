@@ -1,0 +1,18 @@
+Feedback
+1.-Lo mas recomendable para este codigo seria usar inyeccion de dependencia.
+2.-En el Metodo LogMessage existen dos variables con el mismo nombre de parametro llamado "message" se cambio para que no genere problema.
+3.-No se cerraba la conexion de la base de datos.
+4.-Existian las variables llamadas t y l que segun las buenas practicas se deberan colocar nombres claros para el uso de las variables.
+5.-Estas variables no estaban inicializadas.
+6.-No se recomienda manejar codigo dinamico, ya que existe librerias como el enterprice library que nos permite realizar una insersion a la base de datos.
+7.-Se recomienda utilizar procedimientos almacenados y no hacer inserciones directas a la base de datos. 
+8.-Siempre es recomendable que toda conexion con base de datos estea en un archivo de configuracion y no manejarlo desde la clase misma, ya que te permite manejar mas propiedades.
+9.-Existen metodos para que puedas evaluar el contenido de valor de una cadena.
+10.-Es mejor especificar no utilizar la clase exception, ya presta a confusion las excepciones que genera .net de las que se genera para la aplicacion.
+11.-El codigo referente a la conexion a la base de datos debera estar seteado cuando se utilice la conexion.
+12.-No se creaba el archivo inicial .txt
+13.-No se validaba que cuando el archivo ya existia se concatenara los mensajes de error siguientes.
+14.-Se ha encapsulado la ruta de creacion del archivo en una variable.
+15.-Cuando se mande por consola el aplicativo deberia tener el comando para que se imprima en la consola, se ha utilizado Console.ReadKey().
+
+ 

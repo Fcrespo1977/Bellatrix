@@ -1,0 +1,10 @@
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Log.dll
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Log.pdb
+C:\Users\vsilva\Desktop\Test\Log\Log\obj\Debug\Log.dll
+C:\Users\vsilva\Desktop\Test\Log\Log\obj\Debug\Log.pdb
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Log.dll.CodeAnalysisLog.xml
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Log.dll.lastcodeanalysissucceeded
+C:\Users\vsilva\Desktop\Test\Log\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vsilva\Desktop\Test\Log\Log\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml

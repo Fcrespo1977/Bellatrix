@@ -1,0 +1,11 @@
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\LogConsola.exe.config
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\LogConsola.exe
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\LogConsola.pdb
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\obj\Debug\LogConsola.exe
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\obj\Debug\LogConsola.pdb
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\Log.dll
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\Log.pdb
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\obj\Debug\LogConsola.csprojResolveAssemblyReference.cache
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vsilva\Desktop\Test\Log\LogConsola\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
